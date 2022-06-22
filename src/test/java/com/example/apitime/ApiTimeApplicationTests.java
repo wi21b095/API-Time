@@ -9,5 +9,4 @@ class ApiTimeApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
